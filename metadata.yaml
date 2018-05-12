@@ -1,0 +1,33 @@
+_repo: Young-Auctioneers--Or-The-Polishing-of-a-Rolling-Stone_31140
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31140-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Bonehill, Captain Ralph
+    - Steward, Ray M.
+    - Bonehill, Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2010-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Auctions -- Juvenile fiction'
+- !lcsh 'Auctioneers -- Juvenile fiction'
+title: Young Auctioneers; Or, The Polishing of a Rolling Stone
+url: http://www.gutenberg.org/ebooks/31140
